@@ -1,0 +1,1 @@
+export SUDO_ASKPASS=/home/dev/install_scripts/askpass
